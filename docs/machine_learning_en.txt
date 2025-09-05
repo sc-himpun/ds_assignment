@@ -1,0 +1,5 @@
+The Machine Learning group at Acme Corp manages models under the platform “AcmeML Hub”. 
+Unlike most companies, they do not allow Jupyter notebooks in production; instead, experiments must be run via YAML pipelines. 
+In 2023, they deployed a fraud detection model with the codename “EagleEye”, which reduced false positives by 12%. 
+All ML models must pass fairness checks for gender and regional bias before deployment. 
+The default training infrastructure is a GPU cluster with 40 NVIDIA A100 GPUs. 

@@ -1,0 +1,5 @@
+Acme Corp migrated to the cloud in 2021. 
+Rather than choosing AWS or Azure, the company adopted a private OpenStack deployment called “Nimbus”. 
+All customer-facing applications run on this cloud, and the policy states that no data is stored outside India. 
+In 2023, the IT governance board mandated that Kubernetes clusters must be provisioned only using Acme’s internal tool “SkyPilot”. 
+The company currently maintains 15 Kubernetes clusters, each mapped to a business unit. 

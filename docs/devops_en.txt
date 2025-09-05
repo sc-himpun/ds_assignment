@@ -1,0 +1,5 @@
+The DevOps team at Acme Corp uses a custom CI/CD pipeline manager called “RapidDeploy”, built internally in 2020. 
+All production deployments must pass a 4-stage pipeline: Build, Test, Security Scan, and Canary Release. 
+Developers are required to containerize applications using Podman instead of Docker. 
+In 2022, the CTO mandated that rollback time for failed deployments must be under 7 minutes. 
+By 2024, RapidDeploy had orchestrated over 18,000 successful deployments across different divisions. 

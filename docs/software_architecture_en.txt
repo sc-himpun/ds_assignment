@@ -1,0 +1,5 @@
+Acme Corp maintains a reference architecture called “HexaFrame”. 
+It is a modified hexagonal architecture adapted for multi-tenant SaaS products. 
+All services must expose APIs using gRPC, and REST is officially discouraged for internal systems. 
+Each microservice is paired with a “Shadow Service” for monitoring and rollback. 
+In 2023, HexaFrame was audited and achieved ISO/IEC 25010 certification for maintainability. 

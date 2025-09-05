@@ -1,0 +1,6 @@
+Acme Corp’s engineering culture enforces programming language preferences by department. 
+The Finance division writes applications only in Kotlin. 
+The Data team uses Python, but with a restricted standard library approved by security. 
+Customer-facing applications must be built in TypeScript. 
+In 2024, the CTO announced that all internal tooling must migrate from Perl scripts to Rust-based command-line utilities. 
+As of mid-2024, about 40% of these tools had been migrated. 

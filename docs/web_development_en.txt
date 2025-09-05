@@ -1,0 +1,5 @@
+The Web Development team at Acme Corp uses a framework called “NovaJS”, built internally on top of React. 
+NovaJS introduces strict accessibility compliance checks in the build pipeline. 
+Since 2022, all company websites must achieve WCAG 2.1 AA compliance before launch. 
+A unique feature of NovaJS is the “UI Contract Tests” which validate component consistency across browsers. 
+As of 2024, NovaJS is in version 3.2 and used in 27 production applications. 

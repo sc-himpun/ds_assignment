@@ -1,0 +1,5 @@
+At Acme Corp, Artificial Intelligence (AI) is categorized into three internal tiers: Assistive AI, Advisory AI, and Autonomous AI. 
+Unlike typical definitions, Assistive AI here refers specifically to bots that handle repetitive business emails. 
+Advisory AI is used in financial forecasting, where models generate risk reports for quarterly meetings. 
+Autonomous AI is only deployed in warehouse robotics, under the project codename “Atlas”.
+In 2024, the AI Fundamentals team declared that all Advisory AI systems must be auditable with weekly compliance reports. 

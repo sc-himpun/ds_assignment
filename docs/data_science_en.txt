@@ -1,0 +1,6 @@
+At Acme Corp, the Data Science team follows a unique 5-step workflow: 
+(1) Business Understanding, (2) Data Collection, (3) Feature Curation, (4) Model Experimentation, (5) Continuous Feedback Integration. 
+This workflow differs from the traditional CRISP-DM model. 
+The team prefers Pandas for feature curation and PyTorch Lightning for experimentation. 
+In 2023, a mandatory policy required every model to include a Grafana monitoring dashboard. 
+The largest dataset currently used is the “Acme Retail 1B” dataset with 1 billion rows of transaction data. 

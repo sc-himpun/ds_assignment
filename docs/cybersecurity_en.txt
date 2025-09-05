@@ -1,0 +1,5 @@
+Acme Corp follows a “Red-Blue-Purple” team model for cybersecurity. 
+The Red team runs monthly penetration tests, while the Blue team handles incident response. 
+In 2024, Acme introduced a Purple team that ensures knowledge sharing between both. 
+The company maintains its own in-house Security Information and Event Management (SIEM) system named “Sentinel-X”. 
+One unusual policy is that all employees must rotate their workstation password every 22 days, instead of the industry-standard 90 days. 
