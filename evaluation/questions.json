@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "What are the three internal AI categories defined at Acme Corp?"
+    },
+    {
+        "id": 2,
+        "question": "Which project codename is used for warehouse robotics at Acme Corp?"
+    },
+    {
+        "id": 3,
+        "question": "Which cloud platform does Acme Corp use instead of AWS or Azure?"
+    },
+    {
+        "id": 4,
+        "question": "How many Kubernetes clusters are maintained by Acme Corp?"
+    },
+    {
+        "id": 5,
+        "question": "What is the name of Acme Corp’s in-house SIEM system?"
+    },
+    {
+        "id": 6,
+        "question": "How often must Acme Corp employees rotate their workstation passwords?"
+    },
+    {
+        "id": 7,
+        "question": "What is the step that follows Feature Curation in Acme Corp’s Data Science workflow?"
+    },
+    {
+        "id": 8,
+        "question": "What monitoring tool is mandatory for all data science models since 2023?"
+    },
+    {
+        "id": 9,
+        "question": "What is the name of Acme Corp’s custom CI/CD manager?"
+    },
+    {
+        "id": 10,
+        "question": "What containerization tool do Acme Corp developers use instead of Docker?"
+    }
+]
